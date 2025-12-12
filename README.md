@@ -5,7 +5,7 @@ This repository contains assets and resources for the **Bank Churn Dashboard**, 
 ## 🔗 Live Dashboard
 
 View the interactive Tableau dashboard here:
-https://public.tableau.com/app/profile/yuvraj.singh7160/viz/Bank-churn/Dashboard1
+**https://public.tableau.com/app/profile/yuvraj.singh7160/viz/Bank-churn/Dashboard1**
 
 ## 📁 Repository Contents
 
